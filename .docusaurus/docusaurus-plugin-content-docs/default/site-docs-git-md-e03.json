@@ -1,0 +1,44 @@
+{
+  "unversionedId": "git",
+  "id": "git",
+  "title": "git命令",
+  "description": "git常用命令",
+  "source": "@site/docs/git.md",
+  "sourceDirName": ".",
+  "slug": "/git",
+  "permalink": "/myDocusaurus/docs/git",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/git.md",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/myDocusaurus/docs/tags/git"
+    },
+    {
+      "label": "代码托管",
+      "permalink": "/myDocusaurus/docs/tags/代码托管"
+    },
+    {
+      "label": "协作办公",
+      "permalink": "/myDocusaurus/docs/tags/协作办公"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "git",
+    "title": "git命令",
+    "tags": [
+      "git",
+      "代码托管",
+      "协作办公"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/myDocusaurus/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "node版本控制",
+    "permalink": "/myDocusaurus/docs/nvm"
+  }
+}

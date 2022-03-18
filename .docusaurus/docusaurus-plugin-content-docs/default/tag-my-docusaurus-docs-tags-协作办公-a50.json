@@ -1,0 +1,13 @@
+{
+  "name": "协作办公",
+  "permalink": "/myDocusaurus/docs/tags/协作办公",
+  "docs": [
+    {
+      "id": "git",
+      "title": "git命令",
+      "description": "git常用命令",
+      "permalink": "/myDocusaurus/docs/git"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}

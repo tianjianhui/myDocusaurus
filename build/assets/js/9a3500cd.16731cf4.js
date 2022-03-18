@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyuweinong_blog=self.webpackChunkyuweinong_blog||[]).push([[5809],{1304:function(s){s.exports=JSON.parse('{"allTagsPath":"/myDocusaurus/blog/tags","slug":"/myDocusaurus/blog/tags/hola","name":"hola","count":1,"permalink":"/myDocusaurus/blog/tags/hola"}')}}]);
