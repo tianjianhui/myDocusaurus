@@ -64,10 +64,9 @@ const config = {
             label: '文档',
           },
           {
-            type: 'doc',
-            docId: 'git',
-            position: 'left',
-            label: '前端开发流程',
+            to: 'write',
+            position: 'right',
+            label: '文档编写语法',
           },
           {to: 'blog', label: '博客', position: 'right'},
           // Please keep GitHub link to the right for consistency.
@@ -146,7 +145,7 @@ const config = {
               },
             ],
           },
-        ]
+        ],
       },
       hideableSidebar: true,
       autoCollapseSidebarCategories: true,
