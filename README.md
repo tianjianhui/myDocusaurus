@@ -1,3 +1,12 @@
+<!--
+ * @Author: 田建辉
+ * @Date: 2022-04-26 22:33:39
+ * @LastEditors: 田建辉
+ * @LastEditTime: 2023-03-12 10:33:20
+ * @FilePath: /myDocusaurus/README.md
+ * @Description: 启动说明文档
+ * 
+-->
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
@@ -11,7 +20,7 @@ $ yarn
 ### Local Development
 
 ```
-$ yarn start
+$ yarn start  // node 16
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
