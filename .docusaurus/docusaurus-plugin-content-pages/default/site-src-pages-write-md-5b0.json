@@ -1,0 +1,15 @@
+{
+  "type": "mdx",
+  "permalink": "/myDocusaurus/write",
+  "source": "@site/src/pages/write.md",
+  "title": "文档编写语法",
+  "description": "参考Docusaurus",
+  "frontMatter": {
+    "slug": "write",
+    "title": "文档编写语法",
+    "tags": [
+      "文档",
+      "Docusaurus"
+    ]
+  }
+}

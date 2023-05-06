@@ -1,0 +1,271 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "开发流程",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "代码规范",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "CSS 代码规范",
+                "href": "/myDocusaurus/docs/development-process/code-standards/CSS",
+                "docId": "development-process/code-standards/CSS"
+              },
+              {
+                "type": "link",
+                "label": "JavaScript 代码规范",
+                "href": "/myDocusaurus/docs/development-process/code-standards/JavaScript",
+                "docId": "development-process/code-standards/JavaScript"
+              },
+              {
+                "type": "link",
+                "label": "React/JSX 代码规范",
+                "href": "/myDocusaurus/docs/development-process/code-standards/React",
+                "docId": "development-process/code-standards/React"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "流程规范",
+            "href": "/myDocusaurus/docs/development-process/flow",
+            "docId": "development-process/flow"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/myDocusaurus/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/myDocusaurus/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/myDocusaurus/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/myDocusaurus/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/myDocusaurus/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/myDocusaurus/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/myDocusaurus/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/myDocusaurus/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "git命令",
+        "href": "/myDocusaurus/docs/git",
+        "docId": "git"
+      },
+      {
+        "type": "link",
+        "label": "前端单元测试之JEST",
+        "href": "/myDocusaurus/docs/jest",
+        "docId": "jest"
+      },
+      {
+        "type": "category",
+        "label": "notes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "sass用法",
+            "href": "/myDocusaurus/docs/notes/sass",
+            "docId": "notes/sass"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "node版本控制",
+        "href": "/myDocusaurus/docs/nvm",
+        "docId": "nvm"
+      },
+      {
+        "type": "link",
+        "label": "ts入门",
+        "href": "/myDocusaurus/docs/ts",
+        "docId": "ts"
+      },
+      {
+        "type": "link",
+        "label": "vscode比较好用的插件",
+        "href": "/myDocusaurus/docs/vscode",
+        "docId": "vscode"
+      }
+    ]
+  },
+  "docs": {
+    "development-process/code-standards/CSS": {
+      "id": "development-process/code-standards/CSS",
+      "title": "CSS 代码规范",
+      "description": "CSS-in-JavaScript 代码规范",
+      "sidebar": "tutorialSidebar"
+    },
+    "development-process/code-standards/JavaScript": {
+      "id": "development-process/code-standards/JavaScript",
+      "title": "JavaScript 代码规范",
+      "description": "参考Airbnb JavaScript 代码规范",
+      "sidebar": "tutorialSidebar"
+    },
+    "development-process/code-standards/React": {
+      "id": "development-process/code-standards/React",
+      "title": "React/JSX 代码规范",
+      "description": "Class vs React.createClass vs stateless",
+      "sidebar": "tutorialSidebar"
+    },
+    "development-process/flow": {
+      "id": "development-process/flow",
+      "title": "流程规范",
+      "description": "提交代码规范",
+      "sidebar": "tutorialSidebar"
+    },
+    "git": {
+      "id": "git",
+      "title": "git命令",
+      "description": "git常用命令",
+      "sidebar": "tutorialSidebar"
+    },
+    "jest": {
+      "id": "jest",
+      "title": "前端单元测试之JEST",
+      "description": "使用前的准备工作",
+      "sidebar": "tutorialSidebar"
+    },
+    "notes/sass": {
+      "id": "notes/sass",
+      "title": "sass用法",
+      "description": "css功能拓展",
+      "sidebar": "tutorialSidebar"
+    },
+    "nvm": {
+      "id": "nvm",
+      "title": "node版本控制",
+      "description": "nvm安装（mac）",
+      "sidebar": "tutorialSidebar"
+    },
+    "ts": {
+      "id": "ts",
+      "title": "ts入门",
+      "description": "TS基础",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "vscode": {
+      "id": "vscode",
+      "title": "vscode比较好用的插件",
+      "description": "Better Comments",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

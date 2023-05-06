@@ -1,0 +1,39 @@
+{
+  "unversionedId": "jest",
+  "id": "jest",
+  "title": "前端单元测试之JEST",
+  "description": "使用前的准备工作",
+  "source": "@site/docs/jest.md",
+  "sourceDirName": ".",
+  "slug": "/jest",
+  "permalink": "/myDocusaurus/docs/jest",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/jest.md",
+  "tags": [
+    {
+      "label": "单元测试",
+      "permalink": "/myDocusaurus/docs/tags/单元测试"
+    },
+    {
+      "label": "工具",
+      "permalink": "/myDocusaurus/docs/tags/工具"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "jest",
+    "title": "前端单元测试之JEST",
+    "tags": [
+      "单元测试",
+      "工具"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "git命令",
+    "permalink": "/myDocusaurus/docs/git"
+  },
+  "next": {
+    "title": "sass用法",
+    "permalink": "/myDocusaurus/docs/notes/sass"
+  }
+}

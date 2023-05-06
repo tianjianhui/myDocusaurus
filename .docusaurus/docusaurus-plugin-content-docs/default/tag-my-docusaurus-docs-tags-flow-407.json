@@ -1,0 +1,13 @@
+{
+  "name": "flow",
+  "permalink": "/myDocusaurus/docs/tags/flow",
+  "docs": [
+    {
+      "id": "development-process/flow",
+      "title": "流程规范",
+      "description": "提交代码规范",
+      "permalink": "/myDocusaurus/docs/development-process/flow"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}

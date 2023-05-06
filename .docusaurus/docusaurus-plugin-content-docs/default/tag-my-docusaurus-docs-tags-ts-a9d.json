@@ -1,0 +1,13 @@
+{
+  "name": "TS",
+  "permalink": "/myDocusaurus/docs/tags/ts",
+  "docs": [
+    {
+      "id": "ts",
+      "title": "ts入门",
+      "description": "TS基础",
+      "permalink": "/myDocusaurus/docs/ts"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}

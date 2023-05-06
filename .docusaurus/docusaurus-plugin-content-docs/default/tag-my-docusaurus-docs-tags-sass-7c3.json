@@ -1,0 +1,13 @@
+{
+  "name": "sass",
+  "permalink": "/myDocusaurus/docs/tags/sass",
+  "docs": [
+    {
+      "id": "notes/sass",
+      "title": "sass用法",
+      "description": "css功能拓展",
+      "permalink": "/myDocusaurus/docs/notes/sass"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}

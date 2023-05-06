@@ -1,0 +1,13 @@
+{
+  "name": "代码样式",
+  "permalink": "/myDocusaurus/docs/tags/代码样式",
+  "docs": [
+    {
+      "id": "notes/sass",
+      "title": "sass用法",
+      "description": "css功能拓展",
+      "permalink": "/myDocusaurus/docs/notes/sass"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}

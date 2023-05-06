@@ -1,0 +1,39 @@
+{
+  "unversionedId": "react-test",
+  "id": "react-test",
+  "title": "React单元测试",
+  "description": "",
+  "source": "@site/docs/react-test.md",
+  "sourceDirName": ".",
+  "slug": "/react-test",
+  "permalink": "/myDocusaurus/docs/react-test",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/react-test.md",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/myDocusaurus/docs/tags/react"
+    },
+    {
+      "label": "工具",
+      "permalink": "/myDocusaurus/docs/tags/工具"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "react-test",
+    "title": "React单元测试",
+    "tags": [
+      "React",
+      "工具"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "node版本控制",
+    "permalink": "/myDocusaurus/docs/nvm"
+  },
+  "next": {
+    "title": "ts入门",
+    "permalink": "/myDocusaurus/docs/ts"
+  }
+}

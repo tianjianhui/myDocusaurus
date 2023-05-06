@@ -1,0 +1,13 @@
+{
+  "name": "代码托管",
+  "permalink": "/myDocusaurus/docs/tags/代码托管",
+  "docs": [
+    {
+      "id": "git",
+      "title": "git命令",
+      "description": "git常用命令",
+      "permalink": "/myDocusaurus/docs/git"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}

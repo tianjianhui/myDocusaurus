@@ -1,0 +1,37 @@
+{
+  "name": "协作办公",
+  "permalink": "/myDocusaurus/docs/tags/协作办公",
+  "docs": [
+    {
+      "id": "development-process/flow",
+      "title": "流程规范",
+      "description": "提交代码规范",
+      "permalink": "/myDocusaurus/docs/development-process/flow"
+    },
+    {
+      "id": "development-process/code-standards/CSS",
+      "title": "CSS 代码规范",
+      "description": "CSS-in-JavaScript 代码规范",
+      "permalink": "/myDocusaurus/docs/development-process/code-standards/CSS"
+    },
+    {
+      "id": "git",
+      "title": "git命令",
+      "description": "git常用命令",
+      "permalink": "/myDocusaurus/docs/git"
+    },
+    {
+      "id": "development-process/code-standards/JavaScript",
+      "title": "JavaScript 代码规范",
+      "description": "参考Airbnb JavaScript 代码规范",
+      "permalink": "/myDocusaurus/docs/development-process/code-standards/JavaScript"
+    },
+    {
+      "id": "development-process/code-standards/React",
+      "title": "React/JSX 代码规范",
+      "description": "Class vs React.createClass vs stateless",
+      "permalink": "/myDocusaurus/docs/development-process/code-standards/React"
+    }
+  ],
+  "allTagsPath": "/myDocusaurus/docs/tags"
+}
